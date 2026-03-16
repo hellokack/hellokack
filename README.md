@@ -14,4 +14,3 @@
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hellokack&theme=shades-of-purple" alt="hellokack's GitHub Streak" />
 </div>
-[![Codetree Study](https://github-readme-stats.vercel.app/api/pin/?username=hellokack&repo=codetree_study&theme=shades-of-purple)](https://github.com/hellokack/codetree_study)
